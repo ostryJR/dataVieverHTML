@@ -1,0 +1,3 @@
+O to nasza stacja meteorologiczna. Na pokładzie znajdują się czujniki oraz inne komponenty.<br/>
+Całość jest zamknięta w szczelnej obudowie i przyczepiona do elewacji budynku.<br/>
+Stacja komunikuje się z serwerem poprzez internet, odczyty są prowadzone automatycznie co godzinę.
