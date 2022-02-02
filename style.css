@@ -1,0 +1,59 @@
+body{
+	margin:0 !important;
+	background-color:#ecf0f1;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.clsFL{
+	float:left;
+}
+.clsCB{
+	clear:both;
+}
+.chart{
+	height:400px;
+	width:900px;
+}
+.menuButton{
+	background-color:#27ae60;
+	margin:2px;
+	font-size:20px;
+	width:25%;
+	float:left;
+	cursor:pointer;
+}
+.menuButton:hover{
+	background-color:white;
+}
+.download{
+	text-decoration:none;
+	text-align:center;
+	background-color:#27ae60;
+	color:white;
+	width:180px;
+	border-radius: 5px;
+}
+.sticky{
+	width:100%;
+	position:fixed;
+	left:0;
+	top:0;
+	z-index:100;
+}
+#menu{
+	width:100%;
+	background-color:#2ecc71;
+	padding:5px;
+}
+
+#logId tr:hover {background-color: #ddd;}
+
+#naglowek{
+	width: 100%;
+	height:15%;
+	background-color:#2ecc71;
+	color:black;
+	text-align:center;
+	font-size:50px;
+}
+
